@@ -5,7 +5,7 @@
 A simple OCR project using the EMNIST ([Cohen et al., 2017](https://arxiv.org/pdf/1702.05373)) dataset.
 
 ## Howto
-Run the notebook `demo.ipynb` to train the networks and show the demo.
+Run the notebook `demo.ipynb` to train the classifier and show the demo.
 
 ## Details
 
